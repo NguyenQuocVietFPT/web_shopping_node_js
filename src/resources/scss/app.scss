@@ -1,6 +1,58 @@
+html {
+    font-family: 'Roboto', sans-serif;
+}
 .user-avatar {
     height: 50px;
     width: 50px;
     border-radius: 50%;
     margin-right: 16px;
+}
+
+.banner-img {   
+
+    width: 200px;
+    height: auto;
+}
+
+.bg-cl-orange {
+    background-color: #e33513;
+}
+
+.items {
+    margin-right: 32px;
+}
+
+.nav-list-items {
+    color: white;
+    font-size: 18px;
+    font-weight: lighter;
+}
+
+.nav-list-items:hover {
+    text-decoration: none;
+    color: #00d4ff;
+}
+
+.footer-content {
+    color: white;
+    font-size: 16px;
+    font-weight: lighter;
+}
+
+.title {
+    font-size: 20px !important;
+}
+
+.footer-link {
+    color: white;
+}
+
+.footer-link:hover {
+    color: #e33513;
+    text-decoration: none;
+    opacity: 0.7;
+}
+
+.card-items {
+    margin: 16px 0;
 }
